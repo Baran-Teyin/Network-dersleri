@@ -13,6 +13,10 @@ Ne işe yarar, Ağlar, internete bağlanma, dosya ve yazıcı paylaşımı, e-po
 
 <h1 align='center'>Host Nedir?</h1>
 
+<div align="center">
+    <img src="https://github.com/Okan-tumuklu/Network-dersleri/assets/117488504/34d8c738-4a4e-4f94-9759-744cd3bf31f3" alt="Host Image">
+</div>
+
 <p> 
     Host, ağda veri iletişimi sağlayabilen ve diğer cihazlarla iletişim kurabilen herhangi bir cihazı ifade eder. Bilgisayarlar, sunucular, yazıcılar, yönlendiriciler, akıllı cihazlar ve diğer ağ cihazları host olarak adlandırılabilir. Hostlar, ağ üzerinde birbirleriyle veri paylaşabilir, iletişim kurabilir ve çeşitli işlemleri gerçekleştirebilir. </p>
 
@@ -24,7 +28,9 @@ Hostların Özellikleri vardır ve özellikleri şunlardır:
 
 <h1 align='center'>Server ve Client nedir?</h1>
 
-![image](https://github.com/Okan-tumuklu/Network-dersleri/assets/117488504/48870ebb-6174-4cd9-a75b-497c691f61a0)
+<div align="center">
+    <img src="https://github.com/Okan-tumuklu/Network-dersleri/assets/117488504/247c7c1e-95c8-43b2-af11-26d62046f1f0" alt="Network Image">
+</div>
 
 <h1 align='center'>Sunucu(Server) Nedir?</h1>
 
