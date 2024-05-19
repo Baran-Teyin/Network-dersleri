@@ -29,7 +29,7 @@ Hostların Özellikleri vardır ve özellikleri şunlardır:
 <h1 align='center'>Server ve Client nedir?</h1>
 
 <div align="center">
-    <img src="https://github.com/Okan-tumuklu/Network-dersleri/assets/117488504/247c7c1e-95c8-43b2-af11-26d62046f1f0" alt="Network Image">
+    <img src="https://github.com/Okan-tumuklu/Network-dersleri/assets/117488504/48870ebb-6174-4cd9-a75b-497c691f61a0" alt="Network Image">
 </div>
 
 <h1 align='center'>Sunucu(Server) Nedir?</h1>
