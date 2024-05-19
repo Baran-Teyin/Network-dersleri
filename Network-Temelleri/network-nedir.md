@@ -4,7 +4,8 @@
     <img src="https://github.com/Okan-tumuklu/Network-dersleri/assets/117488504/247c7c1e-95c8-43b2-af11-26d62046f1f0" alt="Network Image">
 </div>
 
-<p>Network(Bilgisayar ağı), bilgisayarlar, mobil cihazlar ve diğer donanım cihazları gibi birbirine bağlı elektronik cihazların, veri ve kaynakların paylaşılması, iletişim kurulması ve işbirliği yapılması için oluşturulan yapıdır.
+<p>
+    Network(Bilgisayar ağı), bilgisayarlar, mobil cihazlar ve diğer donanım cihazları gibi birbirine bağlı elektronik cihazların, veri ve kaynakların paylaşılması, iletişim kurulması ve işbirliği yapılması için oluşturulan yapıdır.
 
 Nasıl çalışır, Ağlar, belirli iletişim protokolleri ve yazılım tabanlı bileşenler aracılığıyla bu cihazların birbiriyle iletişim kurmasını sağlar.
 
@@ -12,7 +13,8 @@ Ne işe yarar, Ağlar, internete bağlanma, dosya ve yazıcı paylaşımı, e-po
 
 <h1 align='center'>Host Nedir?</h1>
 
-<p> Host, ağda veri iletişimi sağlayabilen ve diğer cihazlarla iletişim kurabilen herhangi bir cihazı ifade eder. Bilgisayarlar, sunucular, yazıcılar, yönlendiriciler, akıllı cihazlar ve diğer ağ cihazları host olarak adlandırılabilir. Hostlar, ağ üzerinde birbirleriyle veri paylaşabilir, iletişim kurabilir ve çeşitli işlemleri gerçekleştirebilir. </p>
+<p> 
+    Host, ağda veri iletişimi sağlayabilen ve diğer cihazlarla iletişim kurabilen herhangi bir cihazı ifade eder. Bilgisayarlar, sunucular, yazıcılar, yönlendiriciler, akıllı cihazlar ve diğer ağ cihazları host olarak adlandırılabilir. Hostlar, ağ üzerinde birbirleriyle veri paylaşabilir, iletişim kurabilir ve çeşitli işlemleri gerçekleştirebilir. </p>
 
 Hostların Özellikleri vardır ve özellikleri şunlardır:
 
