@@ -5,6 +5,7 @@
 </div>
 
 <p>
+    
     Network(Bilgisayar ağı), bilgisayarlar, mobil cihazlar ve diğer donanım cihazları gibi birbirine bağlı elektronik cihazların, veri ve kaynakların paylaşılması, iletişim kurulması ve işbirliği yapılması için oluşturulan yapıdır.
 
 Nasıl çalışır, Ağlar, belirli iletişim protokolleri ve yazılım tabanlı bileşenler aracılığıyla bu cihazların birbiriyle iletişim kurmasını sağlar.
