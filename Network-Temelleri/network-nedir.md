@@ -4,7 +4,8 @@
     <img src="https://github.com/Okan-tumuklu/Network-dersleri/assets/117488504/247c7c1e-95c8-43b2-af11-26d62046f1f0" alt="Network Image">
 </div>
 <p>
-
+</p>
+<p>
     
 </p>
 <p>
