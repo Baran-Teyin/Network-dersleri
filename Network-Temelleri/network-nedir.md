@@ -3,11 +3,7 @@
 <div align="center">
     <img src="https://github.com/Okan-tumuklu/Network-dersleri/assets/117488504/247c7c1e-95c8-43b2-af11-26d62046f1f0" alt="Network Image">
 </div>
-<p>
-</p>
-<p>
-    
-</p>
+<br></br>
 <p>
     Network(Bilgisayar ağı), bilgisayarlar, mobil cihazlar ve diğer donanım cihazları gibi birbirine bağlı elektronik cihazların, veri ve kaynakların paylaşılması, iletişim kurulması ve işbirliği yapılması için oluşturulan yapıdır.
 
